@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "text": "Welcome to our daily tech updates! Follow along for tips, news, and insights every single day. 🚀 #Tech #DailyUpdates",
+    "posted": false,
+    "posted_at": null,
+    "tweet_url": null
+  },
+  {
+    "id": 2,
+    "text": "Consistency is key in building great software and great habits. Keep pushing forward! 💡 #Motivation #Developers",
+    "posted": false,
+    "posted_at": null,
+    "tweet_url": null
+  },
+  {
+    "id": 3,
+    "text": "Tip of the day: Automate repetitive tasks so you can focus on high-impact work. ⚡ #Productivity #Automation",
+    "posted": false,
+    "posted_at": null,
+    "tweet_url": null
+  },
+  {
+    "id": 4,
+    "text": "Always test your assumptions before scaling. Small iterations beat big guesses every time. 📈 #Startup #Growth",
+    "posted": false,
+    "posted_at": null,
+    "tweet_url": null
+  },
+  {
+    "id": 5,
+    "text": "Wrapping up today with gratitude. What did you build or learn today? Drop it below! 👇 #Community #Learning",
+    "posted": false,
+    "posted_at": null,
+    "tweet_url": null
+  }
+]
